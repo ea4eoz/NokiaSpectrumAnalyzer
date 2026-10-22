@@ -1,5 +1,5 @@
-#Nokia Spectrum Analyzer
-##AVR 2.4 GHz spectrum anayzer inside a Nokia 3410 case
+# Nokia Spectrum Analyzer
+## AVR 2.4 GHz spectrum anayzer inside a Nokia 3410 case
 
 ![Nokia Spectrum Analyzer](image.jpg)
 
@@ -7,6 +7,6 @@ This is an 2.4 GHz spectrum anayzer I build around 2013 inside a Nokia 3410 case
 
 Nowadays, in an era where countless microcontrollers with built-in WiFi exist, and ever complete software defined radios inside (ESP32, I look at you!), this is completely obsolete but maybe it might still prove useful to someone.
 
-##License
+## License
 
 This software is made available under the GPLv3 license.
